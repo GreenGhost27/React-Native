@@ -1,0 +1,28 @@
+
+.Websites{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+a:visited{
+color: azure;
+}
+
+a:link{
+color: aqua;
+}
+
+body{
+    background-color: #131418 ;
+    color: aqua;
+    font-family: cursive;
+    font-style: inherit;
+    }
+
+H1{
+    border:solid;
+    padding:50px;
+  }
+
+
